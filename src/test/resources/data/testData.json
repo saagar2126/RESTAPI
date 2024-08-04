@@ -1,0 +1,14 @@
+{
+      "id": "2",
+      "name": "lugi",
+      "location": "canada",
+      "phone": "93837484746",
+      "courses": [
+        "Java",
+        "selenium"
+      ],
+	  "courses2": [
+        "playright",
+        "typescript"
+      ]
+    }
